@@ -1,4 +1,5 @@
 import java.util.*;
+// 문자열에 특정 인덱스를 바꾸고 싶다? 문자열에 더하는 방식 사용 가능
 class Solution {
    public String solution(String s) {
         StringBuilder answer = new StringBuilder(s.toLowerCase());
